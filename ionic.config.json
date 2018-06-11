@@ -1,0 +1,8 @@
+{
+  "name": "pt_mcgee",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
